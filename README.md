@@ -3,7 +3,6 @@
 Model-fitting code for
 
 > Han, L. & Di, X. **Cross-Classified Random-Effects Difference-in-Differences Model: A Case Study for New York City's Congestion Pricing.** Transportation Research Board (TRB) Annual Meeting 2027 (accepted for presentation); under review at *Transportation Research Record*.
-> PDF: <https://xxchly.github.io/files/TRB2027_Han_Di_CCRE-DiD.pdf>
 
 ```bibtex
 @misc{han_di_ccre_did_2027,
@@ -12,8 +11,7 @@ Model-fitting code for
             A Case Study for New York City's Congestion Pricing},
   year   = {2027},
   note   = {Accepted for presentation at the TRB Annual Meeting 2027;
-            under review at Transportation Research Record},
-  url    = {https://xxchly.github.io/files/TRB2027_Han_Di_CCRE-DiD.pdf}
+            under review at Transportation Research Record}
 }
 ```
 
